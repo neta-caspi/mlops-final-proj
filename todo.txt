@@ -1,0 +1,18 @@
+1. 2 running notebooks
+2. Make sure problematic notebook can be cut
+3. Put data in git with the code
+4. Add Pipeline support
+5. Target Accuracy: (Accuracy metric - which should we focus on)
+6. Architecture - what we did
+7. Theory behind the step
+8. Comparison of 2 models with and without our step
+9. Record / Live run of the automatic step (all pipeline probably?)
+
+
+1. Presentation
+    1. Suggested future…
+2. Fixed 1st submission MD File
+3. 3 new MD files
+4. Git with code and data + requirements.txt
+
+
